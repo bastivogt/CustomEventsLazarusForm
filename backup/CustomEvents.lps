@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="CustomEvents.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="49" Y="10"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainwindow.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainWindow"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="52"/>
+        <CursorPos X="61" Y="71"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="sebastian.vogt.exampleevent.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="sebastian.vogt.exampleEvent"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="18" Y="3"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="19" HistoryIndex="18">
+      <Position1>
+        <Filename Value="mainwindow.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="16" Column="22"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="13" Column="23"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="18" Column="23"/>
+      </Position4>
+      <Position5>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="16" Column="23"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="51" Column="29" TopLine="20"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="52" Column="11" TopLine="23"/>
+      </Position7>
+      <Position8>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="53" Column="8" TopLine="22"/>
+      </Position8>
+      <Position9>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="45" Column="42" TopLine="23"/>
+      </Position9>
+      <Position10>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="16" Column="5"/>
+      </Position10>
+      <Position11>
+        <Filename Value="sebastian.vogt.exampleevent.pas"/>
+        <Caret Line="3" Column="18"/>
+      </Position11>
+      <Position12>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="55" Column="38" TopLine="25"/>
+      </Position12>
+      <Position13>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="23" Column="7" TopLine="5"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="22" Column="7" TopLine="5"/>
+      </Position14>
+      <Position15>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="48" Column="28" TopLine="25"/>
+      </Position15>
+      <Position16>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="50" Column="26" TopLine="26"/>
+      </Position16>
+      <Position17>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="51" Column="29" TopLine="26"/>
+      </Position17>
+      <Position18>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="60" Column="41" TopLine="30"/>
+      </Position18>
+      <Position19>
+        <Filename Value="mainwindow.pas"/>
+        <Caret Line="71" Column="74" TopLine="52"/>
+      </Position19>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
